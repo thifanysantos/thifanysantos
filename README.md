@@ -1,6 +1,5 @@
 # Seja bem vindo 😊
-<img src=”/home/thifany/Downloads/thifanysantosfrontendbackend.png” height="150" width="150">
-
+<img src=”https://github.com/thifanysantos/thifanysantos/blob/main/thifanysantosfrondendbackend.png” height="150" width="150">
 Me chamo Thifany, tenho 22 anos e moro no interior da bahia.
 
 Comecei a trabalhar aos 17 anos com atendimento ao público, meu primeiro trabalho foi em um estágio com operadora de caixa no qual fiquei mais de um ano. Depois disso sempre trabalhei com vendas no ramo alimentício, e assim foi por alguns anos da minha vida.
