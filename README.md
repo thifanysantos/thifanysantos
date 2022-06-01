@@ -1,7 +1,13 @@
-# Seja bem vindo 😊
-<img src=”https://github.com/thifanysantos/thifanysantos/blob/main/thifanysantosfrondendbackend.png” height="150" width="150">
-Me chamo Thifany, tenho 22 anos e moro no interior da bahia.
+# Seja bem bem vindo
+<div>
+    <td><img style='float:right' width="250" height="250" src='thifanysantosfrondendbackend.png'/></td>Meu nome é Thifany, tenho 22 anos e sou bahiana.
 
+ ## Ferramentas e Tecnologias
+ 
+       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" />
+ </div>         
+          
 Comecei a trabalhar aos 17 anos com atendimento ao público, meu primeiro trabalho foi em um estágio com operadora de caixa no qual fiquei mais de um ano. Depois disso sempre trabalhei com vendas no ramo alimentício, e assim foi por alguns anos da minha vida.
 
 Até que mudei de cidade e comecei a trabalhar com alimentação para cães, como auxiliar de produção, dessa forma comecei a ter mais contato com outros animais além dos meus, e a entender um pouco sobre algumas raças.
@@ -22,20 +28,8 @@ Me sinto completamente realizada nessa profissão, é aquilo que eu nasci para s
   <div align="center">
   <a href="https://github.com/thifanysantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thifanysantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thifanysantos&layout=compact&langs_count=7&midnight-purple"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="thifany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="thifany-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="thifany-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="thifany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="thifany-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="thifany-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-</div>
-  
-  ##
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thifanysantos&layout=compact&langs_count=7&midnight-purple"/>  
+    </div>
 <div> 
   <a href="https://instagram.com/euthifanysantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thifanylopes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
