@@ -1,5 +1,5 @@
 # Seja bem vindo 😊
-![thifanysantosfrondendbackend](https://user-images.githubusercontent.com/59755428/171306006-41a8bb0e-2a55-4c97-837b-6473e30855a4.png)
+<img src=”/home/thifany/Downloads/thifanysantosfrontendbackend.png” height="150" width="150">
 
 Me chamo Thifany, tenho 22 anos e moro no interior da bahia.
 
