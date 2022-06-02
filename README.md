@@ -2,9 +2,12 @@
 <div>
     <p>Meu nome é Thifany, tenho 22 anos e sou baiana.</p>
     <p>Comecei a trabalhar aos 17 anos com atendimento ao público, meu primeiro trabalho foi em um estágio com operadora de caixa onde fiquei mais de um ano. Depois disso sempre trabalhei com vendas no ramo alimentício, e assim foi por alguns anos da minha vida.</p≥
- ## Ferramentas e Tecnologias
- 
+
+
+
+## Ferramentas e Tecnologias
        
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" />
  </div>         
           
